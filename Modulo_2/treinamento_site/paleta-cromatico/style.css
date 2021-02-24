@@ -1,0 +1,12 @@
+body{
+
+
+
+}
+
+.paleta-cromatico{
+    border-radius: 50% ;
+    border:70px solid black;
+    width: 200px;
+    height: 200px;
+}
