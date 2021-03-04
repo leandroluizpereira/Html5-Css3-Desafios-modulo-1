@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    /*height: 100%;*/
+}
+
+p{
+    text-align: justify;
+}
+body {
+    background-image: linear-gradient(to right, red,blue,green);
+
+
+    /*  para colocar degrade horizontal
+     background-image: linear-gradient(to right, red,blue,green);
+    */
+}
+main{
+    background-color: white;
+    width:600px;
+    box-shadow:  5px 5px 15px rgba(201, 162, 162, 0.5);
+    border-radius: 10px;
+    padding: 10px;
+    margin: auto;
+}
+
+h1 {
+    color: orange;
+    text-align: center;
+    text-indent: 1px 1px 0px black;
+}
+h2 {
+     color: blue;
+}
