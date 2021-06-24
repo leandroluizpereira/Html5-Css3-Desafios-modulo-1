@@ -8,7 +8,6 @@ desafio do modulo 1 concluído
 ## Modulo 2 
 
 <strong>Desafio:</strong> montar um site 
-
 <br>
 Acesso ao site:
 
