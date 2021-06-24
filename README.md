@@ -9,6 +9,6 @@ desafio do modulo 1 concluído
 
 <strong>Desafio:</strong> montar um site 
 <br>
-Acesso ao site:
+Acesso ao repositório:
 
 [site android](https://github.com/leandroluizpereira/site-android)
